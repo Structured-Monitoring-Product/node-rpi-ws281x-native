@@ -1,5 +1,5 @@
 {
-  "name": "rpi-ws281x-native",
+  "name": "@structured-monitoring-product/rpi-ws281x-native",
   "version": "0.10.2",
   "description": "(raspberry-pi *only*) native bindings to control a strip of WS281x-LEDs with node.js",
   "keywords": [
@@ -14,8 +14,8 @@
     "node": ">=0.10.0"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/beyondscreen/node-rpi-ws281x-native.git"
+      "type": "git",
+      "url": "https://github.com/Structured-Monitoring-Product/raspberrypi-device.git"
   },
   "author": "Martin Schuhfuss <m.schuhfuss@gmail.com>",
   "homepage": "https://github.com/beyondscreen/node-rpi-ws281x-native",
